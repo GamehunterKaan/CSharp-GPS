@@ -1,0 +1,17 @@
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\bin\Debug\LongLat.exe
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\bin\Debug\LongLat.pdb
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\obj\x86\Debug\LongLat.Properties.Resources.resources
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\obj\x86\Debug\LongLat.csproj.GenerateResource.Cache
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\obj\x86\Debug\LongLat.exe
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\obj\x86\Debug\LongLat.pdb
+c:\users\gull\documents\visual studio 2010\Projects\LongLat\LongLat\obj\x86\Debug\LongLat.Form1.resources
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.csproj.AssemblyReference.cache
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.Properties.Resources.resources
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.csproj.GenerateResource.cache
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.csproj.CoreCompileInputs.cache
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.exe
+C:\Users\kaang\source\repos\LongLat\LongLat\obj\x86\Debug\LongLat.pdb
+C:\Users\kaang\source\repos\LongLat\LongLat\bin\Debug\LongLat.exe.config
+C:\Users\kaang\source\repos\LongLat\LongLat\bin\Debug\LongLat.exe
+C:\Users\kaang\source\repos\LongLat\LongLat\bin\Debug\LongLat.pdb
